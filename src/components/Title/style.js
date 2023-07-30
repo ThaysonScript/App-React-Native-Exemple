@@ -4,7 +4,8 @@ const styles = StyleSheet.create({
     boxTitle: {
         alignItems: 'center',
         justifyContent: 'center',
-        padding: 15
+        padding: 15,
+        marginTop: 20
     },
     text: {
         fontSize: 30,
